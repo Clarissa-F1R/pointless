@@ -1,2 +1,2 @@
 # pointless
-This is an unhelpful file.
+This is an unhelpful file which contains spurious text.
